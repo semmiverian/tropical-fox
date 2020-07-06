@@ -1,0 +1,26 @@
+- Skripsi pertama.docs
+- Skripsi revisi pertama.docs 
+- Skripsi revisi kedua.docs 
+- Skripsi ya Allah semoga selesai.docs 
+- Skripsi final.docs
+- Skirpsi final please ini udah yang terakhir saya mau lulus.docs
+
+========
+
+git
+
+- file skripsi.docs
+
+
+=====
+
+Step by step menggunakan git
+
+- Masuk ke dalam folder yang ingin di version control dengan git
+- git init ( menginisialisasi sebuah folder menggunakan git)
+- git status adalah sebuah command untuk melihat update dari status git yang kita punya
+ - File apa yang belum dimasukkan ke dalam git 
+ - File apa yang sudah siap untuk di upload
+ - Perubahan apa yang belum di upload.
+- git add sebuah command untuk mempersiapkan sebuah file/folder untuk dimasukkan ke dalam git nya
+- git commit -m " <mesasage> " untuk memberikan deskripsi dari file yang akan kita upload
